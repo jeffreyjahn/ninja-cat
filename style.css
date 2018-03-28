@@ -1,0 +1,9 @@
+#kdot{
+    width: 970px;
+    background-color: lightgray;    
+    margin: 0 auto;
+}
+img{
+    display:block;
+    margin: 10px auto;
+}
